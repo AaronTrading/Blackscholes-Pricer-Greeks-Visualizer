@@ -1,1 +1,1 @@
-# blackscholes-greeks
+# A blackscholes greeks pricer
